@@ -2,6 +2,13 @@
 
 [Meteoroid: Origin of The Shooting Star](https://avaepidemic.wixsite.com/website)
 
+[What Exactly Was the Big Bang?](https://astronomy1280jennadelgado.weebly.com)
+
+[Lunar Beginnings](https://lunarbeginnings.weebly.com/)
+
+[If You Like It Put a Ring On It: The Origin of Saturn's Rings](https://cosmos-politan.weebly.com/)
+
+
 You can use the [editor on GitHub](https://github.com/RenatoMazzei/RenatoMazzei.github.io/edit/master/%20(root)/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
